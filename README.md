@@ -42,14 +42,3 @@
 <br clear="both">
 
 ![snake gif](https://github.com/EduardaSantosDiniz/EduardaSantosDiniz/blob/output/github-contribution-grid-snake.gif)
-
-###
-
-
-
-###
-<br clear="both">
-
-![snake gif](https://github.com/EduardaSantosDiniz/EduardaSantosDiniz/blob/output/github-contribution-grid-snake.gif)
-
-###
