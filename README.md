@@ -33,10 +33,19 @@
 - 🔹 [Estudando ciência de dados por 365 dias](https://medium.com/@eduardafaculdade0306/100-dias-aprendendo-ci%C3%AAncia-de-dados-8ce8c6934f53)
 - 🔹 [Quando acidentes mais acontecem?](https://github.com/EduardaSantosDiniz/Quando-Acidente-Mais-Acontecem)
 
-## 📫 Entre em Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/eduarda-diniz-24a275272/]
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardafaculdade0306@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eduardadiniz_s/)
+## 📬 Entre em Contato  
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/eduarda-diniz-24a275272/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:eduardafaculdade0306@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/eduardadiniz_s/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+</p>
 
 ###
 <br clear="both">
