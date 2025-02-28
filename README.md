@@ -1,5 +1,5 @@
 
-<h2 align="left">Olá 👋! Meu nome é Eduarda Diniz.</h2>
+<h1 align="center">Bem-vindo ao meu perfil GitHub 👋</h1>
 
 ###
 
@@ -10,25 +10,42 @@
 
 ###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
-</div>
+
+## 📌 Sobre mim
+- 🎓 **Formação:** Análise e Desenvolvimento de Sistemas
+- 💼 **Atualmente:** Focada em Análise de Dados
+- 🛠 **Habilidades:** Python, Power Bi, Tableau, MySql, Oracle, MongoDb, Maria Db, PostgreSQL
+- 🌎 **Idiomas:** Português (nativo), Inglês (intermediário)
+
+## 🚀 Tecnologias e Ferramentas
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+
+
+## 📂 Projetos Destacados
+- 🔹 [Como aumentar as vendas de um supermercado?](https://github.com/EduardaSantosDiniz/Vendas_supermecado)
+- 🔹 [Estudando ciência de dados por 365 dias](https://medium.com/@eduardafaculdade0306/100-dias-aprendendo-ci%C3%AAncia-de-dados-8ce8c6934f53)
+- 🔹 [Quando acidentes mais acontecem?](https://github.com/EduardaSantosDiniz/Quando-Acidente-Mais-Acontecem)
+
+## 📫 Entre em Contato
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/seu-usuario/](https://www.linkedin.com/in/eduarda-diniz-24a275272/))
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardafaculdade0306@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/seu-usuario](https://www.instagram.com/eduardadiniz_s/))
+
+###
+<br clear="both">
+
+![snake gif](https://github.com/EduardaSantosDiniz/EduardaSantosDiniz/blob/output/github-contribution-grid-snake.gif)
 
 ###
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+
 
 ###
 <br clear="both">
