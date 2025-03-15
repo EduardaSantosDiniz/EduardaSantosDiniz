@@ -12,7 +12,7 @@
 
 
 ## 📌 Sobre mim
-- 🎓 **Formação:** Análise e Desenvolvimento de Sistemas
+- 🎓 **Formação:** Análise e Desenvolvimento de Sistemas e Ciência da Computação
 - 💼 **Atualmente:** Focada em Análise de Dados
 - 🛠 **Habilidades:** Python, Power Bi, Tableau, MySql, Oracle, MongoDb, Maria Db, PostgreSQL
 - 🌎 **Idiomas:** Português (nativo), Inglês (intermediário)
