@@ -32,7 +32,7 @@
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EduardaSantosDiniz&theme=great_gatsby)
 
 ## 📂 Projetos Destacados
-- 🔹 [Como aumentar as vendas de um supermercado?](https://github.com/EduardaSantosDiniz/Vendas_supermecado)
+- 🔹 [ como aumentar o ticket médio de um supermercado?](https://github.com/EduardaSantosDiniz/Vendas_supermecado)
 - 🔹 [Estudando ciência de dados por 365 dias](https://medium.com/@eduardafaculdade0306/100-dias-aprendendo-ci%C3%AAncia-de-dados-8ce8c6934f53)
 - 🔹 [Quando acidentes mais acontecem?](https://github.com/EduardaSantosDiniz/Quando-Acidente-Mais-Acontecem)
 
