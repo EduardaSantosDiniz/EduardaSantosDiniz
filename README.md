@@ -29,7 +29,6 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EduardaSantosDiniz&theme=great_gatsby)
 
 ## 📂 Projetos Destacados
 - 🔹 [Como aumentar o ticket médio de um supermercado?](https://github.com/EduardaSantosDiniz/Vendas_supermecado)
